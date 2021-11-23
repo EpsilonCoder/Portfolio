@@ -158,8 +158,8 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
-  background-color: #149ddd;
-  color: #fff;
+  background-color: blue;
+  color: cyan;
   width: 40px;
   height: 40px;
   display: inline-flex;
@@ -355,7 +355,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: black;
 }
 .about .content ul {
   list-style: none;
